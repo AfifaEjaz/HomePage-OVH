@@ -1,0 +1,44 @@
+.first_nav {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    height: 70px;
+}
+
+.logo{
+    display: block;
+    width: 3.75em;
+    height: 1.75em;
+    /* padding-bottom: 9px; */
+    margin-bottom: 15px;
+    margin-right: 2.5rem;
+}
+
+.nav-link {
+    color: rgb(0, 0, 0);
+    /* Change the color to white */
+}
+
+.nav_item {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.item_orange {
+    color: rgb(255, 120, 9);
+}
+
+.item_blue {
+    color: blue;
+    font-size: 1.15rem;
+    font-weight: bold;
+}
+.second_nav{
+    background-color: #fff;
+    height: 70px;
+
+
+}
+.second_nav_item {
+    font-size: .875rem;
+    font-weight: bold;
+
+}

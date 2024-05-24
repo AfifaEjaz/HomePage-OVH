@@ -1,0 +1,171 @@
+.header_container {
+    position: relative;
+}
+
+.header_img {
+    height: 90vh;
+    width: 95%;
+}
+
+.abletonn {
+    position: absolute;
+    width: 430px;
+    height: 104px;
+    margin-left: -215px;
+    margin-top: -52px;
+    top: 50%;
+    left: 50%;
+}
+
+.about_box {
+    width: 58%;
+}
+
+.about_box h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 2.5rem;
+    margin-top: 3.5rem;
+}
+
+.about_box p {
+    margin-bottom: 4rem;
+    font-size: 1.25rem;
+}
+
+span {
+    color: blue;
+}
+
+/* about */
+
+.main {
+    position: relative;
+    margin-bottom: 8.33333vw;
+    padding-top: 8.33333vw;
+    padding-bottom: 8.33333vw;
+}
+
+.yellow_box {
+    background-color: #FBFFA7 !important;
+    position: absolute;
+    top: 0;
+    z-index: 0;
+    width: 58.33333vw;
+    height: 58.33333vw;
+    right: 0;
+}
+
+.img1 {
+    /* background-color: #555927 !important; */
+    width: 41.66667vw;
+    height: 41.66667vw;
+    margin-left: 8.33333vw;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    z-index: 1;
+}
+
+.img2 {
+    position: relative;
+    width: 33.66667vw;
+    height: 24.66667vw;
+    z-index: 2;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 8.33333vw;
+}
+
+
+.main2 {
+    background-color: #B6FFC0 !important;
+    position: relative;
+    width: 58.33333vw;
+    height: 75vw;
+}
+
+.img3 {
+    position: absolute;
+    width: 33.33333vw;
+    height: 25vw;
+    left: 15%;
+    top: 10%;
+}
+
+.img4 {
+    position: absolute;
+    width: 33.33333vw;
+    height: 25vw;
+    left: 15%;
+    top: 55%;
+}
+
+.img5 {
+    position: relative;
+    width: 41.66667vw;
+    height: 41.66667vw;
+    left: 87%;
+    top: 20%;
+}
+
+.main3 {
+    background-color: #D5B3FF !important;
+    position: relative;
+    width: 66.66667vw;
+    height: 58.33333vw;
+    top: 0;
+    left: 16.66667vw;
+    z-index: 0;
+}
+
+.img6 {
+    position: relative;
+    width: 33.33333vw;
+    height: 25vw;
+    top: 28%;
+    right: 12%;
+}
+
+.img7 {
+    position: absolute;
+    width: 41.66667vw;
+    height: 41.66667vw;
+    top: 15%;
+    left: 60.5%;
+}
+
+.imggg{
+    height: 100vh;
+    max-width: 100%;
+}
+
+.imgg {
+    width: 40.66667vw;
+    height: 48.66667vw;
+}
+
+.blue_box {
+    background-color: #B1C5FF !important;
+    width: 40.66667vw;
+    height: 40.66667vw;
+}
+
+.blue_box_content{
+    width: 70%;
+}
+
+.blue_box_content h1{
+    font-size: 1.875rem;
+    font-weight: bold;
+}
+
+.blue_box_content h1 a {
+    text-decoration: none;
+    color: blue;
+}
+
+.last_about_content{
+    margin-top: 23px;
+    margin-bottom: 146px;
+}

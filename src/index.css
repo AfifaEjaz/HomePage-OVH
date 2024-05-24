@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: "Futura PT Web Book";
+    src: url("./assets/fonts/futura-pt-book.2dadbb3c03c1.ttf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Futura PT Web Book Oblique";
+    src: url("./assets/fonts/futura-pt-book-oblique.f859db99cda9.ttf") format("opentype");
+    font-weight: normal;
+    font-style: oblique;
+}
+
